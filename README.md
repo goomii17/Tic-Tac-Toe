@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic Tac Toe
 Tic Tac Toe in Java.  
 Includes an Ai that works with the minimax algorithm.  
 
