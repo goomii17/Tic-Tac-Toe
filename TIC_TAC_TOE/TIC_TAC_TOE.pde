@@ -6,7 +6,7 @@ int automaticSpeed=10;
 
 char[][] board=new char[tam][tam];
 boolean finished=false, humanTurn;
-float size;
+float size; 
 int maxDepth;
 
 void setup() {
